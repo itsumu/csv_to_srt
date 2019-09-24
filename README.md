@@ -1,14 +1,14 @@
-# csvToSrt.py
+## csvToSrt.py
 Convert .csv to .srt. 
-## Entries
+### Entries
 csv_file, srt_file
 
-# srtTimeTruncate.py
+## srtTimeTruncate.py
 Truncate duration of each section to trancate_length
-## Entries
+### Entries
 file_name, trancate_length
 
-# srtUpHolder.py
+## srtUpHolder.py
 Put subtitles on top of screen
-## Entries
+### Entries
 file_name
